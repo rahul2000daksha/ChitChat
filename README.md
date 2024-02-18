@@ -1,7 +1,5 @@
-# Fullstack Chat project
+# Desktop Chat Application - 'ChitChat'
+Welcome to the Chat Desktop Application (ChitChat)! This application allows users to communicate with each other in real-time through a desktop interface.
 
-This project allows to setup fullstack chat for any frontend/backend combination!
 
-Connect React, Vue, or Angular and any backend you wish!
 
-This should fully support all your fullstack chat needs!
